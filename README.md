@@ -3,7 +3,7 @@ C HTTP Server
 
 Basic mono-thread HTTP Server written in C language using winsock, with basic PHP interpreter.
 
-Written in 2003 to play with winsocket librarries at university, source comments are in Italian.
+Written in 2003 to play with winsocket libraries at university, source comments are in Italian.
 
  * ASCII/bin regocgnition, 
  * URL spaces support
